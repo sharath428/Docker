@@ -22,7 +22,7 @@ MAINTAINER Fabiano Góes
 
 LABEL version="1.0"
 LABEL description="This is a base image to java application"
-LABEL maintainer="fabianogoes@gmail.com"
+LABEL maintainer="sharath428@gmail.com"
 LABEL date-version="09/01/2018"
 
 ARG JAR_FILE_NAME
